@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400;700&family=Poppins:wght@300&display=swap');
+
+body {
+  background-color: #fff8dc;
+  color: #454541;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.social {
+  width: 20px;
+}
