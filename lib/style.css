@@ -1,23 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400;700&family=Poppins:wght@300&display=swap');
 
 body {
-  background-color: #ebebe2;
+  background-color: #fffeb3;
   color: #454541;
   font-family: 'Oswald', sans-serif;
   font-family: 'Poppins', sans-serif;
   display: flex;
   align-items: center;
   flex-direction: column;
-  padding-top: 25%;
+  padding-top: 15%;
 }
 
 #logo {
   width: 400px;
-  padding-bottom: 100px;
+  padding-bottom: 2%;
 }
 
 .social {
   width: 20px;
+  margin-left: 5px;
 }
 
 .social:hover {
