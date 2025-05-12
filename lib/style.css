@@ -8,15 +8,10 @@ body {
   display: flex;
   align-items: center;
   flex-direction: column;
-  padding-top: 10%;
+  padding-top: 1%;
 }
 
-#logo {
-  width: 400px;
-  padding-bottom: 2%;
-}
-
-#schedule {
+#logo, #schedule {
   width: 400px;
   padding-bottom: 2%;
 }
